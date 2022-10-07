@@ -1,0 +1,61 @@
+{
+  "format": 1,
+  "restore": {
+    "/Users/abubutt/Desktop/InClassActivity4/InClassActivity4/InClassActivity4.csproj": {}
+  },
+  "projects": {
+    "/Users/abubutt/Desktop/InClassActivity4/InClassActivity4/InClassActivity4.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "/Users/abubutt/Desktop/InClassActivity4/InClassActivity4/InClassActivity4.csproj",
+        "projectName": "InClassActivity4",
+        "projectPath": "/Users/abubutt/Desktop/InClassActivity4/InClassActivity4/InClassActivity4.csproj",
+        "packagesPath": "/Users/abubutt/.nuget/packages/",
+        "outputPath": "/Users/abubutt/Desktop/InClassActivity4/InClassActivity4/obj/",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "/Users/abubutt/.nuget/NuGet/NuGet.Config"
+        ],
+        "originalTargetFrameworks": [
+          "net6.0"
+        ],
+        "sources": {
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net6.0": {
+            "targetAlias": "net6.0",
+            "projectReferences": {}
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "net6.0": {
+          "targetAlias": "net6.0",
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48",
+            "net481"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "/usr/local/share/dotnet/sdk/6.0.401/RuntimeIdentifierGraph.json"
+        }
+      }
+    }
+  }
+}

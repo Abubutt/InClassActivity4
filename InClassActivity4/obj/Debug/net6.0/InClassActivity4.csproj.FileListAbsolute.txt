@@ -1,0 +1,15 @@
+/Users/abubutt/Desktop/InClassActivity4/InClassActivity4/bin/Debug/net6.0/InClassActivity4
+/Users/abubutt/Desktop/InClassActivity4/InClassActivity4/bin/Debug/net6.0/InClassActivity4.deps.json
+/Users/abubutt/Desktop/InClassActivity4/InClassActivity4/bin/Debug/net6.0/InClassActivity4.runtimeconfig.json
+/Users/abubutt/Desktop/InClassActivity4/InClassActivity4/bin/Debug/net6.0/InClassActivity4.dll
+/Users/abubutt/Desktop/InClassActivity4/InClassActivity4/bin/Debug/net6.0/InClassActivity4.pdb
+/Users/abubutt/Desktop/InClassActivity4/InClassActivity4/obj/Debug/net6.0/InClassActivity4.csproj.AssemblyReference.cache
+/Users/abubutt/Desktop/InClassActivity4/InClassActivity4/obj/Debug/net6.0/InClassActivity4.GeneratedMSBuildEditorConfig.editorconfig
+/Users/abubutt/Desktop/InClassActivity4/InClassActivity4/obj/Debug/net6.0/InClassActivity4.AssemblyInfoInputs.cache
+/Users/abubutt/Desktop/InClassActivity4/InClassActivity4/obj/Debug/net6.0/InClassActivity4.AssemblyInfo.cs
+/Users/abubutt/Desktop/InClassActivity4/InClassActivity4/obj/Debug/net6.0/InClassActivity4.csproj.CoreCompileInputs.cache
+/Users/abubutt/Desktop/InClassActivity4/InClassActivity4/obj/Debug/net6.0/InClassActivity4.dll
+/Users/abubutt/Desktop/InClassActivity4/InClassActivity4/obj/Debug/net6.0/refint/InClassActivity4.dll
+/Users/abubutt/Desktop/InClassActivity4/InClassActivity4/obj/Debug/net6.0/InClassActivity4.pdb
+/Users/abubutt/Desktop/InClassActivity4/InClassActivity4/obj/Debug/net6.0/InClassActivity4.genruntimeconfig.cache
+/Users/abubutt/Desktop/InClassActivity4/InClassActivity4/obj/Debug/net6.0/ref/InClassActivity4.dll
