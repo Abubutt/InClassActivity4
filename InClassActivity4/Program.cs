@@ -67,13 +67,13 @@ class Program
 {
     static void Main(string[] args)
     {
-        BookStore myStore = new BookStore();
+        BookStore myStore = new BookStore(); // instance of Bookstore class
 
-        Book book1 = new Book();
+        Book book1 = new Book(); // instance of Book class
         book1.Title = "Harry Potter";
         book1.Author = "Jk Rowling";
 
-        Book book2 = new Book();
+        Book book2 = new Book(); // instance of Book class
         book2.Title = "Marvel Comics";
         book2.Author = "Jacob Ress";
 
